@@ -11,6 +11,7 @@ A list of public programs which provide information on vulnerabilties found by r
 | British Broadcasting Corporation | https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements/ |
 | Deutsche Telekom | https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300 |
 | CloudSEK | https://cloudsek.com/security/vulnerability-disclosure/ |
+| Coret Genealogie | https://genealogie.coret.org/beleid/responsible_disclosure.php |
 | ETSI | https://www.etsi.org/standards/coordinated-vulnerability-disclosure |
 | Telecom Italia | https://www.gruppotim.it/en/footer/responsible-disclosure.html |
 | IOM | https://www.iom.int/report-cybersecurity-issue |

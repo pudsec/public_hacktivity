@@ -5,6 +5,7 @@ A list of public programs which provide details on vulnerabilties found by resea
 # Programs
 | Program | Website |
 |--------------|-----------|
+| Aliter Technologies | https://www.aliter.com/en/security-vulnerability-disclosure-hall-of-fame |
 | British Broadcasting Corporation | https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements/ |
 | Deutsche Telekom | https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300 |
 | ETSI | https://www.etsi.org/standards/coordinated-vulnerability-disclosure |

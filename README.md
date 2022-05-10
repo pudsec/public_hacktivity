@@ -5,7 +5,6 @@ A list of public programs which provide information on vulnerabilties found by r
 # Programs
 | Program | Website |
 |--------------|-----------|
-| Aliter Technologies | https://www.aliter.com/en/security-vulnerability-disclosure-hall-of-fame |
 | Bosch | https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html |
 | British Broadcasting Corporation | https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements/ |
 | Deutsche Telekom | https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300 |
@@ -18,4 +17,5 @@ A list of public programs which provide information on vulnerabilties found by r
 | Schuberg Philis | https://schubergphilis.com/en/security-hall-of-fame |
 | SkipsoLabs | https://www.skipsolabs.com/en/page/skipsolabs-responsible-disclosure-en |
 | Sky NZ | https://help.sky.co.nz/s/coordinated-vulnerability |
+| Stedin | https://www.stedin.net/responsible-disclosure/gemelde-en-opgeloste-kwetsbaarheden |
 | United Nations | https://unite.un.org/content/un-information-security-hall-fame |

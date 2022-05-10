@@ -5,6 +5,7 @@ A list of public programs which provide information on vulnerabilties found by r
 # Programs
 | Program | Website |
 |--------------|-----------|
+| Bigosaur | https://bigosaur.com/security/hof.html |
 | Bosch | https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html |
 | British Broadcasting Corporation | https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements/ |
 | Deutsche Telekom | https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300 |

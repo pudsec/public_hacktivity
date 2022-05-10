@@ -17,6 +17,7 @@ A list of public programs which provide information on vulnerabilties found by r
 | Telecom Italia | https://www.gruppotim.it/en/footer/responsible-disclosure.html |
 | IOM | https://www.iom.int/report-cybersecurity-issue |
 | Litmind | https://litmind.com/bughunters |
+| MAGIX | http://research.magix.com/ |
 | Matrix | https://matrix.org/security-disclosure-policy/ |
 | NestForms | https://www.nestforms.com/Bug-Bounty-Program |
 | Norges Bank | https://www.nbim.no/en/responsible-disclosure-policy/ |

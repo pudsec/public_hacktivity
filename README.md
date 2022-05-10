@@ -17,4 +17,5 @@ A list of public programs which provide information on vulnerabilties found by r
 | OCCRP | https://www.occrp.org/en/responsible-disclosure |
 | Schuberg Philis | https://schubergphilis.com/en/security-hall-of-fame |
 | SkipsoLabs | https://www.skipsolabs.com/en/page/skipsolabs-responsible-disclosure-en |
+| Sky NZ | https://help.sky.co.nz/s/coordinated-vulnerability |
 | United Nations | https://unite.un.org/content/un-information-security-hall-fame |

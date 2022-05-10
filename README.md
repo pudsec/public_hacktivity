@@ -23,6 +23,7 @@ A list of public programs which provide information on vulnerabilties found by r
 | Norges Bank | https://www.nbim.no/en/responsible-disclosure-policy/ |
 | OCCRP | https://www.occrp.org/en/responsible-disclosure |
 | Schuberg Philis | https://schubergphilis.com/en/security-hall-of-fame |
+| SimpleRisk | https://www.simplerisk.com/contributors |
 | SkipsoLabs | https://www.skipsolabs.com/en/page/skipsolabs-responsible-disclosure-en |
 | Sky NZ | https://help.sky.co.nz/s/coordinated-vulnerability |
 | Stedin | https://www.stedin.net/responsible-disclosure/gemelde-en-opgeloste-kwetsbaarheden |

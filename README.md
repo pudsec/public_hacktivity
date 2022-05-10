@@ -14,4 +14,5 @@ A list of public programs which provide information on vulnerabilties found by r
 | NestForms | https://www.nestforms.com/Bug-Bounty-Program |
 | OCCRP | https://www.occrp.org/en/responsible-disclosure |
 | Schuberg Philis | https://schubergphilis.com/en/security-hall-of-fame |
+| SkipsoLabs | https://www.skipsolabs.com/en/page/skipsolabs-responsible-disclosure-en |
 | United Nations | https://unite.un.org/content/un-information-security-hall-fame |

@@ -20,6 +20,7 @@ A list of public programs which provide information on vulnerabilties found by r
 | Fastmail | https://www.fastmail.com/about/bugbounty/ |
 | IOM | https://www.iom.int/report-cybersecurity-issue |
 | Litmind | https://litmind.com/bughunters |
+| Kaspersky | https://support.kaspersky.com/12430 |
 | MAGIX | http://research.magix.com/ |
 | Matrix | https://matrix.org/security-disclosure-policy/ |
 | NestForms | https://www.nestforms.com/Bug-Bounty-Program |

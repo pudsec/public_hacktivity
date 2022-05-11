@@ -15,6 +15,7 @@ A list of public programs which provide information on vulnerabilties found by r
 | Cloudsmith | https://help.cloudsmith.io/v1.0/docs/exploits-hall-of-fame |
 | Coret Genealogie | https://genealogie.coret.org/beleid/responsible_disclosure.php |
 | ETSI | https://www.etsi.org/standards/coordinated-vulnerability-disclosure |
+| Fastmail | https://www.fastmail.com/about/bugbounty/ |
 | Telecom Italia | https://www.gruppotim.it/en/footer/responsible-disclosure.html |
 | IOM | https://www.iom.int/report-cybersecurity-issue |
 | Litmind | https://litmind.com/bughunters |

@@ -30,4 +30,5 @@ A list of public programs which provide information on vulnerabilties found by r
 | Sky NZ | https://help.sky.co.nz/s/coordinated-vulnerability |
 | Stedin | https://www.stedin.net/responsible-disclosure/gemelde-en-opgeloste-kwetsbaarheden |
 | United Nations | https://unite.un.org/content/un-information-security-hall-fame |
+| Week Plan | https://support.weekplan.net/en/knowledge-bases/4/articles/5988-vulnerability-disclosure-policy |
 | Zooniverse | https://www.zooniverse.org/security |

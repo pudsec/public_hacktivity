@@ -6,6 +6,7 @@ A list of public programs which provide information on vulnerabilties found by r
 | Program | Website |
 |--------------|-----------|
 | Airship | https://www.airship.com/legal/full-disclosure-security-policy/ |
+| Avast | https://www.avast.com/hacker-hall-of-fame |
 | Bigosaur | https://bigosaur.com/security/hof.html |
 | Bosch | https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html |
 | British Broadcasting Corporation | https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements/ |

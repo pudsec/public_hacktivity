@@ -11,6 +11,7 @@ A list of public programs which provide information on vulnerabilties found by r
 | Bosch | https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html |
 | British Broadcasting Corporation | https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements/ |
 | Deutsche Telekom | https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300 |
+| Chromium | https://www.chromium.org/Home/chromium-security/hall-of-fame/ |
 | CloudSEK | https://cloudsek.com/security/vulnerability-disclosure/ |
 | Cloudsmith | https://help.cloudsmith.io/v1.0/docs/exploits-hall-of-fame |
 | Coret Genealogie | https://genealogie.coret.org/beleid/responsible_disclosure.php |

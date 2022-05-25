@@ -2,6 +2,8 @@
 
 A list of public programs which provide information on vulnerabilties found by researchers.
 
+The below listed programs all offer Hall of Fame entries, but as per the rewards column, some will provide additional swag, in-game currency, bounties etc.
+
 # Programs
 
 | Program | Website | Detailed | Rewards |

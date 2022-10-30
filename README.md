@@ -32,6 +32,7 @@ The below listed programs all offer Hall of Fame entries, but as per the rewards
 | PDF.co | https://pdf.co/security-hall-of-fame |  |  |
 | RIPE | https://atlas.ripe.net/docs/security/ | Y |  |
 | Schuberg Philis | https://schubergphilis.com/en/security-hall-of-fame |  | Bounty* |
+| SerenityOS  | https://www.serenityos.org/bounty/ | Y | Y |
 | SimpleRisk | https://www.simplerisk.com/contributors |  |  |
 | SkipsoLabs | https://www.skipsolabs.com/en/page/skipsolabs-responsible-disclosure-en |  |  |
 | Sky NZ | https://help.sky.co.nz/s/coordinated-vulnerability |  |  |

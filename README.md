@@ -39,6 +39,7 @@ The below listed programs all offer Hall of Fame entries, but as per the rewards
 | S.A. Proto | https://wiki.proto.utwente.nl/ict/responsible-disclosure |  |  |
 | Schuberg Philis | https://schubergphilis.com/en/security-hall-of-fame |  | Bounty* |
 | SerenityOS  | https://www.serenityos.org/bounty/ | Y | Bounty |
+| SilverStripe | https://www.silverstripe.org/download/security-releases/ | Y |  |
 | SimpleRisk | https://www.simplerisk.com/contributors |  |  |
 | SkipsoLabs | https://www.skipsolabs.com/en/page/skipsolabs-responsible-disclosure-en |  |  |
 | Sky NZ | https://help.sky.co.nz/s/coordinated-vulnerability |  |  |

@@ -23,6 +23,7 @@ The below listed programs all offer Hall of Fame entries, but as per the rewards
 | ETSI | https://www.etsi.org/standards/coordinated-vulnerability-disclosure |  |  |
 | Fastmail | https://www.fastmail.com/about/bugbounty/ |  | Bounty |
 | IOM | https://www.iom.int/report-cybersecurity-issue |  |  |
+| LINE | https://bugbounty.linecorp.com/en/halloffame/ |  |  |
 | Litmind | https://litmind.com/bughunters | Y |  |
 | Kaspersky | https://support.kaspersky.com/12430 | Y |  |
 | MAGIX | http://research.magix.com/ |  |  |

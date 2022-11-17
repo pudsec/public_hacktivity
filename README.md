@@ -32,6 +32,7 @@ The below listed programs all offer Hall of Fame entries, but as per the rewards
 | PrivateBin | https://privatebin.info/category/reports.html | Y |  |
 | PDF.co | https://pdf.co/security-hall-of-fame |  |  |
 | RIPE | https://atlas.ripe.net/docs/security/ | Y |  |
+| S.A. Proto | https://wiki.proto.utwente.nl/ict/responsible-disclosure |  |  |
 | Schuberg Philis | https://schubergphilis.com/en/security-hall-of-fame |  | Bounty* |
 | SerenityOS  | https://www.serenityos.org/bounty/ | Y | Bounty |
 | SimpleRisk | https://www.simplerisk.com/contributors |  |  |

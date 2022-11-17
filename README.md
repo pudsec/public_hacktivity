@@ -22,6 +22,7 @@ The below listed programs all offer Hall of Fame entries, but as per the rewards
 | Deutsche Telekom | https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300 |  |  |
 | ETSI | https://www.etsi.org/standards/coordinated-vulnerability-disclosure |  |  |
 | Fastmail | https://www.fastmail.com/about/bugbounty/ |  | Bounty |
+| Gandi | https://www.gandi.net/en-US/security-acknowledgements | Y |  |
 | IOM | https://www.iom.int/report-cybersecurity-issue |  |  |
 | LINE | https://bugbounty.linecorp.com/en/halloffame/ |  |  |
 | Litmind | https://litmind.com/bughunters | Y |  |

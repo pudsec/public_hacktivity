@@ -8,6 +8,7 @@ The below listed programs all offer Hall of Fame entries, but as per the rewards
 
 | Program | Website | Detailed | Rewards |
 |:-:|:-|:-:|:-:|
+| Ably | https://ably.com/acknowledgements |  | Bounty* |
 | Airship | https://www.airship.com/legal/full-disclosure-security-policy/ |  | Swag |
 | Avast | https://www.avast.com/hacker-hall-of-fame | Y |  |
 | Bigosaur | https://bigosaur.com/security/hof.html | Y | Virtual Currency |

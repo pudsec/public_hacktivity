@@ -29,6 +29,7 @@ The below listed programs all offer Hall of Fame entries, but as per the rewards
 | NestForms | https://www.nestforms.com/Bug-Bounty-Program |  | Bounty |
 | Norges Bank | https://www.nbim.no/en/responsible-disclosure-policy/ |  |  |
 | OCCRP | https://www.occrp.org/en/responsible-disclosure | Y |  |
+| PrivateBin | https://privatebin.info/category/reports.html | Y |  |
 | PDF.co | https://pdf.co/security-hall-of-fame |  |  |
 | RIPE | https://atlas.ripe.net/docs/security/ | Y |  |
 | Schuberg Philis | https://schubergphilis.com/en/security-hall-of-fame |  | Bounty* |

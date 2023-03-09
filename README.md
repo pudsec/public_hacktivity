@@ -50,6 +50,7 @@ The below listed programs all offer Hall of Fame entries, but as per the rewards
 | University of Turku | https://security.utu.fi/acknowledgements.html |  |  |
 | verdigado | https://security.verdigado.com/acknowledgements.html |  |  |
 | Week Plan | https://support.weekplan.net/en/knowledge-bases/4/articles/5988-vulnerability-disclosure-policy |  |  |
+| Westbury Digital | https://westburydigital.com.au/bugbounty.php |  |  |
 | Whispir | https://www.whispir.com/en-au/terms/vulnerability-disclosure-policy/ |  |  |
 | Zooniverse | https://www.zooniverse.org/security | Y |  |
 
